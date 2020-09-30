@@ -1,3 +1,5 @@
+c'est le truc à zuzu
+
 # ICT-Bot
 
 Projet de [bot telegram](https://telegram.org/blog/bot-revolution) permettant
